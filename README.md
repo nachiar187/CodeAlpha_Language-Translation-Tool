@@ -1,6 +1,7 @@
 # Language Translation Tool 
 
-A language transalation tool developed using python 
+## Description
+A language transalation tool developed using python. This application allows user to translate text between different languages through a user-friendly interface.
 
 ## Features
 - Translate text between languages
@@ -10,4 +11,10 @@ A language transalation tool developed using python
 ## Technology Used
 - Python
 - Tkinter
-- Scikit-learn
+- Google Translator
+
+## How to Run
+1. Install Python.
+2. Install the required libraries.
+3. Run the Python file:
+   py language_translation.py
