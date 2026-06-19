@@ -11,7 +11,7 @@ A language transalation tool developed using python. This application allows use
 ## Technology Used
 - Python
 - Tkinter
-- Google Translator
+- Googletrans
 
 ## How to Run
 1. Install Python.
